@@ -25,5 +25,11 @@ namespace Lesson2PullRequest
         {
             return $"Hello, {name}";
         }
+        public string HowAreYouDoing (string name)
+        {
+            return $"How are you doing, {name}?";
+        }
+
+            ]
     }
 }
