@@ -37,6 +37,6 @@ namespace Lesson2PullRequest
             return $"How are you doing, {name}?";
         }
 
-            ]
+            
     }
 }
