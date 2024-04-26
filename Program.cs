@@ -15,6 +15,8 @@ namespace Lesson2PullRequest
             Console.WriteLine(" * \\___/ *");
             Console.WriteLine("   *****   ");
             Console.WriteLine("    ---    ");
+
+          Console.WriteLine("Hey, Illia, your writeline in code!!!");
         }
         
     }
