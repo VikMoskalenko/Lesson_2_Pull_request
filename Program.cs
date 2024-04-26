@@ -14,6 +14,7 @@ namespace Lesson2PullRequest
             Console.WriteLine("*    ^    *");
             Console.WriteLine(" * \\___/ *");
             Console.WriteLine("   *****   ");
+            Console.WriteLine("    ---    ");
         }
         
     }
